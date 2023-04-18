@@ -3,5 +3,9 @@ header{ background:#0abfbc; color:blue; display:flex;justify-content: space-arou
 position: relative;
 top: 50px;
 left:150px}
+
+.imagem-cursista{ 
+width: 130px
+}
    
    
