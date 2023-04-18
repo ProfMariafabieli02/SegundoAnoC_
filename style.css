@@ -17,4 +17,9 @@ font-size:30px;
  . cursistadiv
      margin: 60px}
 
+.todoscursistas{
+    display: grid;
+    grid-template-columns:20%,20%,20%,20%,20%;
+}
+
    
